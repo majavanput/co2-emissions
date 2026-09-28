@@ -1,12 +1,12 @@
 # co2-emissions
-Project Assignment - CO2 Emissions
+Project Assignment - CO₂ Emissions
 
 # Data sources
-## Biggest predictor of CO2 output
+## Biggest predictor of CO₂ output
 Kaya identity: drivers of CO₂ emissions
 https://ourworldindata.org/grapher/kaya-identity-co2
 
-## Biggest strides in decreasing CO2 output
+## Biggest strides in decreasing CO₂ output
 CO₂ emissions per capita
 https://ourworldindata.org/grapher/co-emissions-per-capita
 
